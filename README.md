@@ -3,7 +3,7 @@
 Word Chef là một trò chơi giải đố từ vựng được phát triển bằng Unity. Người chơi sẽ nối các chữ cái lại để tạo thành từ có nghĩa, sử dụng thao tác kéo thả đơn giản với hiệu ứng Line Renderer trực quan.
 
 ## 🎮 Demo
-👉 [Xem video demo](https://mail.google.com/mail/u/3/#sent/KtbxLrjVmJxzwqLhkhWfPmrvCxGHdhgBdV?projector=1)
+👉 [Xem video demo](https://drive.google.com/file/d/1KGvYTxmIApizayRCvlQGougoefnsy5iV/view)
 
 ## 🚀 Tính năng nổi bật
 - Line Renderer trực quan khi nối chữ
