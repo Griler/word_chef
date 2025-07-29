@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 7d84eb999785d964ba184202524ca265
+timeCreated: 1505899258
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LettersAndTransitionBg_0
+    21300002: LettersAndTransitionBg_1
+    21300004: LettersAndTransitionBg_2
+    21300006: LettersAndTransitionBg_3
+    21300008: LettersAndTransitionBg_4
+    21300010: LettersAndTransitionBg_5
+    21300012: LettersAndTransitionBg_6
+    21300014: LettersAndTransitionBg_7
+    21300016: LettersAndTransitionBg_8
+    21300018: LettersAndTransitionBg_9
+    21300020: LettersAndTransitionBg_10
+    21300022: LettersAndTransitionBg_11
+    21300024: LettersAndTransitionBg_12
+    21300026: LettersAndTransitionBg_13
+    21300028: LettersAndTransitionBg_14
+    21300030: LettersAndTransitionBg_15
+    21300032: LettersAndTransitionBg_16
+    21300034: LettersAndTransitionBg_17
+    21300036: LettersAndTransitionBg_18
+    21300038: LettersAndTransitionBg_19
+    21300040: LettersAndTransitionBg_20
+    21300042: LettersAndTransitionBg_21
+    21300044: LettersAndTransitionBg_22
+    21300046: LettersAndTransitionBg_23
+    21300048: LettersAndTransitionBg_24
+    21300050: LettersAndTransitionBg_25
+    21300052: LettersAndTransitionBg_26
+    21300054: LettersAndTransitionBg_30
+    21300056: LettersAndTransitionBg_31
+    21300058: LettersAndTransitionBg_32
+    21300060: LettersAndTransitionBg_36
+    21300062: LettersAndTransitionBg_37
+    21300064: LettersAndTransitionBg_38
+    21300066: LettersAndTransitionBg_42
+    21300068: LettersAndTransitionBg_43
+    21300070: LettersAndTransitionBg_44
+    21300072: LettersAndTransitionBg_48
+    21300074: LettersAndTransitionBg_49
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 921
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 921
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 818
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 818
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 715
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 715
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 612
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 612
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 509
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 509
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 406
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 406
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 303
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 303
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 200
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 200
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 97
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 267
+        width: 567
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 181
+        width: 257
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 90
+        width: 386
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3
+        width: 368
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 3
+        width: 304
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LettersAndTransitionBg_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
